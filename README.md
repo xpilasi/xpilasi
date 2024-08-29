@@ -32,12 +32,11 @@ Here are some ideas to get you started:
 
   ![xpilasi's Stats](https://github-readme-stats.vercel.app/api?username=xpilasi&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-<div>
+<br>
 ![xpilasi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xpilasi&theme=dracula&hide_border=true)
-</div>
-<div>
+<br>
 ![xpilasi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xpilasi&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-</div>
+
 
 
 
