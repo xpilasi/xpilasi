@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, this is Xavi 👋
+
+- 🌱 I’m a Front End Developer
+- 🖥️ I love to design and build nice Webs and Mobile Apps
 
 <!--
 **xpilasi/xpilasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
