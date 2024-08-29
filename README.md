@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
+![xpilasi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xpilasi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ![xpilasi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xpilasi&theme=dracula&hide_border=true)
 
