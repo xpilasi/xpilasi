@@ -1,34 +1,13 @@
 ## Hi there, this is Xavi 👋
 
-- 🌱 I’m a Front End Developer
-- 🖥️ I love to design and build nice Websites and Mobile Apps
+- 🌱 I’m a Front-End Developer
+- 📈 I have a strong background in Business and Product Management
+- 🖥️ I love designing and building beautiful websites and mobile apps
 - 🐲 I create my own logos and brands
-- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="18"/>  Huge fan of Figma
-
-<!--
-**xpilasi/xpilasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="20" height="18"/>  I'm a huge Figma fan
 
 
-
-
-
-
-
-
-
-<h3 align="left">Frameworks I've worked with:</h3>
+<h3 align="left">These are the frameworks I've used in my projects :</h3>
 <div><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
@@ -57,7 +36,8 @@ Here are some ideas to get you started:
 <h3 align="left">Some stats 🦄: </h3>
 
 ![xpilasi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xpilasi&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
+<br/>
+![xpilasi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xpilasi&theme=tokyonight&hide_border=true)
 
 
 
