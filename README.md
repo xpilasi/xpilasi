@@ -1,6 +1,6 @@
 ## Hi there, this is Xavi 👋
 
-- 🌱 I’m a Front-End Developer
+- 🌱 I’m a Product Builder
 - 📈 I have a strong background in Business and Product Management
 - 🖥️ I love designing and building beautiful websites and mobile apps
 - 🐲 I create my own logos and brands
